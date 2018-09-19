@@ -18,6 +18,9 @@
     "suppressImplicitAnyIndexErrors": true,
     "noUnusedLocals": true
   },
+  "rules": {
+    "no-console": [false, "log", "error"]
+  },
   "exclude": [
     "node_modules",
     "build",
